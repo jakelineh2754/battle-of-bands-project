@@ -28,6 +28,13 @@ options {
 
 #music-notes {
     size: 500px, 500px;
-    float: center;
-    
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+}
+
+#guitar {
+      margin-left: auto;
+      margin-right: auto;
+  display: block;
 }
