@@ -4,6 +4,9 @@ html {
 
 h1 {
     text-align: center;
+<<<<<<< HEAD
+    
+=======
     font-family: 'Spectral SC', serif;
 }
 
@@ -23,5 +26,9 @@ options {
     padding-bottom: 100px;
     font-family: 'Spectral SC', serif;
     padding-bottom: 200px;
+<<<<<<< HEAD
     display: block;
+=======
+>>>>>>> b21f201bdab46c566ee5245e4b66f26f773abef7
+>>>>>>> 61661b734badcb14258e12960b2cd80d5325acd2
 }
