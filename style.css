@@ -23,4 +23,5 @@ options {
     padding-bottom: 100px;
     font-family: 'Spectral SC', serif;
     padding-bottom: 200px;
+    display: block;
 }
