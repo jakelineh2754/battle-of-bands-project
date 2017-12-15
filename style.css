@@ -35,6 +35,7 @@ options {
     padding-bottom: 100px;
     font-family: 'Spectral SC', serif;
     padding-bottom: 200px;
+
     display: block;
     color: white;
 }
@@ -53,4 +54,5 @@ options {
       margin-right: auto;
       display: block;
       opacity: 0.9;
+
 }
