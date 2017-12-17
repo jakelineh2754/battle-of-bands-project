@@ -56,3 +56,31 @@ options {
       opacity: 0.9;
 
 }
+
+#drums {
+      margin-left: auto;
+      display: block;
+      opacity: 0.9;
+
+}
+
+advertisment {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    background: white;
+    border: 3px solid grey;
+    opacity: ;
+}
+
+submit {
+    background-color: white;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
