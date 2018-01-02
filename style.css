@@ -9,6 +9,7 @@ h1 {
     border: 5px solid white;
     background: white;
     opacity: 0.6;
+    float: center;
 }
 
 h3 {
@@ -50,18 +51,28 @@ options {
 }
 
 #guitar {
-      margin-left: auto;
-      margin-right: auto;
-      display: block;
-      opacity: 0.9;
-
+        padding: 10px;
+        float: center;
 }
 
 #drums {
-      margin-left: auto;
-      display: block;
-      opacity: 0.9;
+    width: 300px;
+    height: 300px;
+    float: left;
+}
 
+#mic {
+    float: right;
+}
+
+credits {
+    text-align: center;
+    font-family: 'Spectral SC', serif;
+    color: black;
+    border: 5px solid white;
+    background: white;
+    opacity: 0.6;
+    text-align: center;
 }
 
 advertisment {
@@ -71,16 +82,5 @@ advertisment {
     width: 300px;
     background: white;
     border: 3px solid grey;
-    opacity: ;
-}
-
-submit {
-    background-color: white;
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
+    float: right;
 }
